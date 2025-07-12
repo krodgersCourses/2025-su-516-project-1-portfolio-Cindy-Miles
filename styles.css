@@ -4,7 +4,7 @@
  body {
     background-color:steelblue;
     color:whitesmoke;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: arial, sans-serif;
     font-size: 18px;
     text-align: center;
     padding: 40px
@@ -12,7 +12,7 @@
 #header-title {
     background-color:whitesmoke;
     color: steelblue;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Times New Roman, serif;
     padding: 80px;
     text-align: center;
   } 
