@@ -12,14 +12,14 @@
 #header-title {
     background-color:whitesmoke;
     color: steelblue;
-    font-family: Times New Roman, serif;
+    font-family: "Times New Roman", serif;
     padding: 80px;
     text-align: center;
   } 
 
 footer {
     background-color: whitesmoke;
-    padding: 10px;
+    padding: 80px;
     text-align: left;
     color:steelblue;
   }
