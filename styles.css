@@ -19,7 +19,7 @@
 footer {
     background-color: whitesmoke;
     padding: 10px;
-    text-align: center;
+    text-align: left;
     color:steelblue;
   }
 
@@ -38,16 +38,16 @@ td, th {
   }
 
   .table-footer {
-    text-align: center;
-    background-color: steelblue;
-    color: whitesmoke;
+    text-align: left;
+    background-color: whitesmoke;
+    color: steelblue;
     padding: 20px;
     
   }
 
   .list {
     padding-top: 40px;
-    text-align: left;
+    text-align: center;
     margin: 40 auto;
     
   }
