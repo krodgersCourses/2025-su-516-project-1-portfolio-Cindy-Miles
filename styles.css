@@ -13,7 +13,7 @@
     background-color:whitesmoke;
     color: steelblue;
     font-family: Georgia, 'Times New Roman', Times, serif
-    padding: 40px;
+    padding: 80px;
     text-align: center;
   } 
 
@@ -48,8 +48,8 @@ td, th {
 
   .list {
     list-style-type: none;
-    padding-top: 40px;
+    padding-top: 0;
     text-align: center;
-    margin: 40 auto;
+    margin: 0;
     
   }
