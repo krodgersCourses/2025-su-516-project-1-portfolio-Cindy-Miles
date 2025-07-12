@@ -4,7 +4,7 @@
  body {
     background-color:steelblue;
     color:whitesmoke;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     text-align: center;
     padding: 40px
@@ -12,6 +12,7 @@
 #header-title {
     background-color:whitesmoke;
     color: steelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif
     padding: 40px;
     text-align: center;
   } 
@@ -46,6 +47,7 @@ td, th {
   }
 
   .list {
+    list-style-type: none;
     padding-top: 40px;
     text-align: center;
     margin: 40 auto;
