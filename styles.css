@@ -42,14 +42,17 @@ td, th {
     text-align: left;
     background-color: whitesmoke;
     color: steelblue;
-    padding: 20px;
-    
+    padding: 20px;  
   }
 
   .list {
-    list-style-type: none;
-    padding-top: 0;
+    padding: 10;
     text-align: center;
-    margin: 0;
-    
+    margin: 10; 
   }
+
+  ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
